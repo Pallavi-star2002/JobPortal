@@ -1,0 +1,72 @@
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\Job Portal.dll.config
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\Job Portal.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\Job Portal.pdb
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\csc.exe
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\csc.exe.config
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\csc.rsp
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\csi.exe
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\csi.exe.config
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\csi.rsp
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.AppContext.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Console.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.IO.Compression.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Net.Http.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.ValueTuple.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\vbc.exe
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\vbc.exe.config
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\vbc.rsp
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\VBCSCompiler.exe
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\Antlr3.Runtime.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\Newtonsoft.Json.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\System.Web.Optimization.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\WebGrease.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\System.Web.Optimization.xml
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\Newtonsoft.Json.xml
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\Antlr3.Runtime.pdb
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\obj\Debug\Job Portal.csproj.AssemblyReference.cache
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\obj\Debug\Job Portal.csproj.CoreCompileInputs.cache
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\obj\Debug\Job Portal.csproj.Up2Date
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\obj\Debug\Job Portal.dll
+C:\Users\pallavi\source\repos\Job Portal\Job Portal\obj\Debug\Job Portal.pdb

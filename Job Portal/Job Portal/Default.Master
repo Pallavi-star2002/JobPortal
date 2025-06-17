@@ -1,0 +1,70 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.master.cs" Inherits="Job_Portal.Default" %>
+<%@ Register Src="~/Header.ascx" TagName="header" TagPrefix="h1" %>
+<%@ Register Src="~/Footer.ascx" TagName="footer" TagPrefix="h1" %>
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        td {
+            padding: 10px;
+            text-align: center;
+        }
+        .menu {
+            background-color: #4CAF50; 
+            color: white; 
+        }
+        .menu a {
+            color: white; 
+            padding: 14px 20px;
+            text-decoration: none; 
+            display: inline-block; 
+        }
+        .menu a:hover {
+            background-color: #3e8e41; 
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+            <table>
+                <tr>
+                    <td>
+                        <h1:header id="myhead" runat="server"></h1:header>
+                    </td>
+                </tr>
+        <tr>
+                    <td>
+                        <div class="menu">
+                            <a href="JobSeeker_Registration.aspx">JobSeekar Sign Up</a>
+                            <a href="JobRecruiter_Registration.aspx">JobRecruiter Sign Up</a>
+                            <a href="SignIn.aspx">Sign In</a>
+                           
+                        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+</asp:ContentPlaceHolder>
+    </td>
+</tr>
+
+                <tr>
+    <td>
+        <h1:footer id="myfoot" runat="server"></h1:footer>
+    </td>
+</tr>
+            </table>     
+        </div>
+    </form>
+</body>
+</html>

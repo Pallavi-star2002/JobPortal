@@ -1,0 +1,77 @@
+﻿
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="Job_Portal.AdminMode" %>
+
+<%@ Register Src="~/Header.ascx" TagName="myhead" TagPrefix="h1" %>
+<%@ Register Src="~/Footer.ascx" TagName="myfoot" TagPrefix="h1" %>
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        td {
+            padding: 10px;
+            text-align: center;
+        }
+        .menu {
+            background-color: #4CAF50; 
+            color: white; 
+        }
+        .menu a {
+            color: white; 
+            padding: 14px 20px;
+            text-decoration: none; 
+            display: inline-block; 
+        }
+        .menu a:hover {
+            background-color: #3e8e41; 
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+            <table>
+                <tr>
+                    <td>
+                        <h1:myhead id="h1" runat="server"></h1:myhead>
+                    </td>
+                </tr>
+        <tr>
+                    <td>
+                        <div class="menu">
+                            <a href="../AdminMode/AdminHome.aspx">Home</a>
+                            <a href="../AdminMode/Admin_changepassword.aspx">Change Password</a>
+                            <a href="../AdminMode/AdminJobPost.aspx">ListOfJobs</a>
+                            <a href="../AdminMode/AdminMangeJobRecuriters.aspx">MangeJobRecuriter</a>
+                            <a href="../AdminMode/AdminMangeJobSeekers.aspx">MangeJobSeekers</a>     
+                            <a href="../Logout.aspx">Logout</a>
+
+                           
+                        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+</asp:ContentPlaceHolder>
+    </td>
+</tr>
+
+                <tr>
+    <td>
+        <h1:myfoot id="f1" runat="server"></h1:myfoot>
+    </td>
+</tr>
+            </table>     
+        </div>
+    </form>
+</body>
+</html>
+
