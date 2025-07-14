@@ -15,6 +15,12 @@ This system is designed to handle a variety of job-related processes efficiently
 ![image](https://github.com/user-attachments/assets/c8f3d2a4-d344-476f-9ba0-623db2a10890)
 ![image](https://github.com/user-attachments/assets/5a68a53c-e3a3-4da6-b3c9-7b8474fdc623)
 
+
+
+## 📰 Featured In the News
+![news pallavi](https://github.com/user-attachments/assets/0a25b42e-5219-4f86-9c9e-d6e5fa759791)
+
+
 ## ✨ Made with ❤️ by Pallavi
 
 
